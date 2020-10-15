@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1601344014 source:c:\users\jedaboy\desktop\among us anos 70 goty editon\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1601353301 source:c:\users\jedaboy\desktop\among us anos 70 goty editon\funcoes.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1601355540 source:c:\users\jedaboy\desktop\among us anos 70 goty editon\movimentacao.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1601352758 source:c:\users\jedaboy\desktop\among us anos 70 goty editon\mapa.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1601477855 source:c:\users\jedaboy\desktop\jogo\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"header.h"
+
+1601693692 c:\users\jedaboy\desktop\jogo\header.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1601523583 source:c:\users\jedaboy\desktop\jogo\mapa.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"header.h"
+
+1602041020 source:c:\users\jedaboy\desktop\jogo\movimentacao.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"header.h"
+
+1601482742 source:c:\users\jedaboy\desktop\jogo\funcoes.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"header.h"
+
